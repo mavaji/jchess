@@ -6,3 +6,5 @@ A Simple Java Chess Game
 mvn clean package
 java -cp target/chess-1.0.0.jar chessold.ChessBoard
 ```
+
+Movement is with arrow keys and `Enter`.
